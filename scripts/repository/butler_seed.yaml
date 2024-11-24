@@ -1,0 +1,6 @@
+datastore:
+  checksum: false
+  root: <butlerRoot>
+registry:
+  db: <server_url>:<port>/<db_name>
+  namespace: roman_desc_sims_w_2024_42
