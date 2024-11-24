@@ -1,7 +1,5 @@
-import os
-from collections import defaultdict
+import sys
 import click
-import pandas as pd
 import lsst.daf.butler as daf_butler
 
 repo = "/repo/roman-desc-sims"
